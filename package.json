@@ -1,0 +1,13 @@
+{
+  "name": "chatroom",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Node.js in Action ch2",
+  "dependencies": {
+    "socket.io": "~0.9.6",
+    "mime": "~1.2.7"
+  },
+  "devDependencies": {
+    "node-dev": "~2.1.6"
+  }
+}
